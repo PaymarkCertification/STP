@@ -5,5 +5,5 @@ Created on 8/12/2019
 '''
 
 URL = "https://stp-uat.paymark.co.nz"
-User = "Michael.yu@paymark.co.nz"
-Password = "Password1"
+User = "Your email here"
+Password = "Your password here"
